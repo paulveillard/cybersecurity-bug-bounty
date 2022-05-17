@@ -5,6 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ##  `What is Bug Bounty? `
 
 
+## Table of Contents
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
 - [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
