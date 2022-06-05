@@ -1,4 +1,4 @@
-# Awesome Bug Bounty Builder ¯\\_(ツ)_/¯
+# Bug Bounty Builder ¯\\_(ツ)_/¯
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 <a href="https://github.com/0xJin/awesome-bugbounty-builder/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/0xJin/awesome-bugbounty-builder"></a>
 
 
-<p><i> Awesome Bug bounty builder Project - ALL common Tools for find your Vulnerabilities.</i></p>
+<p><i> Bug Bounty builder Project - ALL common Tools for find your Vulnerabilities.</i></p>
 </div>
 
 
