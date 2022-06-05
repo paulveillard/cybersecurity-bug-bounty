@@ -377,8 +377,11 @@ https://github.com/Karanxa/Bug-Bounty-Wordlists
 
 ## Thanks 
 
-<a href="https://www.buymeacoffee.com/0xJin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+**[`^        back to top        ^`](#)**
 
-Don't forget to follow me on Twitter.
+## License
+MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
 
-[@0xJin](https://twitter.com/0xJin) - This tool is made with ❤️ by 0xJin ¯\\_(ツ)_/¯.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+To the extent possible under law, [Paul Veillard](https://github.com/paulveillard/) has waived all copyright and related or neighboring rights to this work.
