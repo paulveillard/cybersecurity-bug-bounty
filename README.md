@@ -5,7 +5,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ##  `What is Bug Bounty? `
 A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a deal offered by many websites, organizations and software developers by which individuals can receive recognition and compensation for reporting bugs, especially those pertaining to security exploits and vulnerabilities.
 
-## Table of Contents
+##  `Table of Contents `
 - [Cross-Site Scripting (XSS)](https://github.com/ngalongc/bug-bounty-reference#cross-site-scripting-xss)
 - [Brute Force](https://github.com/ngalongc/bug-bounty-reference/blob/master/README.md#brute-force)
 - [SQL Injection (SQLi)](https://github.com/ngalongc/bug-bounty-reference#sql-injection)
@@ -24,7 +24,7 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [Authentication Bypass](https://github.com/ngalongc/bug-bounty-reference#race-condition#business-logic-flaw#authentication-bypass)
 - [HTTP Header Injection]
 
-### Cross-Site Scripting (XSS)
+###  `Cross-Site Scripting (XSS) `
 
 - [Sleeping stored Google XSS Awakens a $5000 Bounty](https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/) by Patrik Fehrenbach
 - [RPO that lead to information leakage in Google](http://blog.innerht.ml/rpo-gadgets/) by filedescriptor
@@ -52,7 +52,7 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [xss in google IE, Host Header Reflection](http://blog.bentkowski.info/2015/04/xss-via-host-header-cse.html)
 
 
-### Brute Force
+###  `Brute Force `
 - [Web Authentication Endpoint Credentials Brute-Force Vulnerability](https://hackerone.com/reports/127844) by Arne Swinnen
 - [InstaBrute: Two Ways to Brute-force Instagram Account Credentials](https://www.arneswinnen.net/2016/05/instabrute-two-ways-to-brute-force-instagram-account-credentials/) by Arne Swinnen
 - [How I Could Compromise 4% (Locked) Instagram Accounts](https://www.arneswinnen.net/2016/03/how-i-could-compromise-4-locked-instagram-accounts/) by Arne Swinnen
@@ -61,13 +61,13 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [How I could have hacked all Facebook accounts](http://www.anandpraka.sh/2016/03/how-i-could-have-hacked-your-facebook.html) by Anand Prakash
 - [Facebook Account Take Over by using SMS verification code](http://arunsureshkumar.me/index.php/2016/04/24/facebook-account-take-over/) by Arun Sureshkumar
 
-### SQL Injection
+###  `SQL Injection `
 - [SQL injection in Wordpress Plugin Huge IT Video Gallery in Uber](https://hackerone.com/reports/125932) by glc
 - [SQL Injection on sctrack.email.uber.com.cn](https://hackerone.com/reports/150156) by Orange Tsai
 - [Yahoo – Root Access SQL Injection – tw.yahoo.com](http://buer.haus/2015/01/15/yahoo-root-access-sql-injection-tw-yahoo-com/) by Brett Buerhaus
 - [Multiple vulnerabilities in a WordPress plugin at drive.uber.com](https://hackerone.com/reports/135288) by Abood Nour (syndr0me)
 
-### Stealing Access Token
+###  `Stealing Access Token `
 - [Facebook Access Token Stolen](https://whitton.io/articles/stealing-facebook-access-tokens-with-a-double-submit/) by Jack Whitton - 
 - [Obtaining Login Tokens for an Outlook, Office or Azure Account](https://whitton.io/articles/obtaining-tokens-outlook-office-azure-account/) by Jack Whitton
 
@@ -79,10 +79,10 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [Internet Explorer has a URL problem, on GitHub](http://blog.innerht.ml/internet-explorer-has-a-url-problem/) by filedescriptor.
 - [How I made LastPass give me all your passwords](https://labs.detectify.com/2016/07/27/how-i-made-lastpass-give-me-all-your-passwords/) by labsdetectify
 
-#### Google oauth bypass
+####  `Google oauth bypass `
 - [Bypassing Google Authentication on Periscope's Administration Panel](https://whitton.io/articles/bypassing-google-authentication-on-periscopes-admin-panel/) By Jack Whitton
 
-### CSRF
+###  `CSRF `
 - [Messenger.com CSRF that show you the steps when you check for CSRF](https://whitton.io/articles/messenger-site-wide-csrf/) by Jack Whitton 
 - [Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack)](https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/) by Florian Courtial
 - [Hacking PayPal Accounts with one click (Patched)](http://yasserali.com/hacking-paypal-accounts-with-one-click/) by Yasser Ali
