@@ -163,16 +163,16 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [How I could have removed all your Facebook notes](http://www.anandpraka.sh/2015/12/summary-this-blog-post-is-about.html)
 - [Facebook - bypass ads account's roles vulnerability 2015](http://blog.darabi.me/2015/03/facebook-bypass-ads-account-roles.html) by POUYA DARABI
 
-### Authentication Bypass
+### `Authentication Bypass`
 - [OneLogin authentication bypass on WordPress sites via XMLRPC in Uber](https://hackerone.com/reports/138869) by Jouko Pynnönen (jouko)
 - [2FA PayPal Bypass](https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass) by henryhoggard
 
-### HTTP Header Injection
+### `HTTP Header Injection`
 - [Twitter Overflow Trilogy in Twitter](https://blog.innerht.ml/overflow-trilogy/) by filedescriptor
 - [Twitter CRLF](https://blog.innerht.ml/twitter-crlf-injection/) by filedescriptor
 - [Adblock Plus and (a little) more in Google](https://adblockplus.org/blog/finding-security-issues-in-a-website-or-how-to-get-paid-by-google)
 
-## Subdomain Takeover
+## `Subdomain Takeover`
 - [Hijacking tons of Instapage expired users Domains & Subdomains](http://www.geekboy.ninja/blog/hijacking-tons-of-instapage-expired-users-domains-subdomains/) by geekboy
 - [Reading Emails in Uber Subdomains](https://hackerone.com/reports/156536)
 
