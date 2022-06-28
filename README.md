@@ -105,7 +105,7 @@ A [bug bounty program](https://en.wikipedia.org/wiki/Bug_bounty_program) is a de
 - [Crazy! PornHub RCE AGAIN!!! How I hacked Pornhub for fun and profit - 10,000$](https://5haked.blogspot.sg/) by 5haked
 - [PayPal Node.js code injection (RCE)](http://artsploit.blogspot.hk/2016/08/pprce2.html) by Michael Stepankin
 
-####  Deserialization
+####  `Deserialization`
   - [Java Deserialization in manager.paypal.com](http://artsploit.blogspot.hk/2016/01/paypal-rce.html) by Michael Stepankin
   - [Instagram's Million Dollar Bug](http://www.exfiltrated.com/research-Instagram-RCE.php) by Wesley Wineberg 
   - [(Ruby Cookie Deserialization RCE on facebooksearch.algolia.com](https://hackerone.com/reports/134321) by Michiel Prins (michiel)
